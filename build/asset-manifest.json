@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/newservis/static/css/main.981f7211.chunk.css",
+    "main.js": "/newservis/static/js/main.88242e1f.chunk.js",
+    "main.js.map": "/newservis/static/js/main.88242e1f.chunk.js.map",
+    "runtime-main.js": "/newservis/static/js/runtime-main.df026763.js",
+    "runtime-main.js.map": "/newservis/static/js/runtime-main.df026763.js.map",
+    "static/css/2.733ba2d0.chunk.css": "/newservis/static/css/2.733ba2d0.chunk.css",
+    "static/js/2.92d5dc89.chunk.js": "/newservis/static/js/2.92d5dc89.chunk.js",
+    "static/js/2.92d5dc89.chunk.js.map": "/newservis/static/js/2.92d5dc89.chunk.js.map",
+    "index.html": "/newservis/index.html",
+    "precache-manifest.1429c36bf439464b6b1f9dd97d4ab02a.js": "/newservis/precache-manifest.1429c36bf439464b6b1f9dd97d4ab02a.js",
+    "service-worker.js": "/newservis/service-worker.js",
+    "static/css/2.733ba2d0.chunk.css.map": "/newservis/static/css/2.733ba2d0.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/newservis/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.92d5dc89.chunk.js.LICENSE.txt": "/newservis/static/js/2.92d5dc89.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/newservis/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df026763.js",
+    "static/css/2.733ba2d0.chunk.css",
+    "static/js/2.92d5dc89.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.88242e1f.chunk.js"
+  ]
+}
